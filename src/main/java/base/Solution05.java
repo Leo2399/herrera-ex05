@@ -8,6 +8,26 @@ package base;
 import java.util.Scanner;
 
 public class Solution05 {
+    /*
+    print "What is the first number?"
+    'first number' = read string from user
+
+    print "What is the second number?"
+    'second number' = read string from user
+
+    convert 'first number' string to integer 'x'
+    convert 'second number' string to integer 'y'
+
+    add int 'x' and int 'y'
+    subtract int 'x' and int 'y'
+    multiply int 'x and int 'y'
+    divide int 'x' and int 'y'
+
+    print "'x' + 'y' = 'sum'
+           'x' - 'y' = 'difference'
+           'x' * 'y' = 'product'
+           'x' / 'y' = 'quotient'
+     */
     private static Scanner input = new Scanner(System.in);
 
     public static void main(String[] args){
